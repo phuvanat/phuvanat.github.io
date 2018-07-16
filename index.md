@@ -1,3 +1,6 @@
+## AI Programming with Python Nanodegree Program
+1. [Image Classifier Project](https://goo.gl/QiRnqg)
+
 ## Deep learning nanodegree foundation
 1. [Your first neural network](https://goo.gl/myRUYu)
 2. [Image Classification](https://goo.gl/2xvpmJ)
