@@ -1,3 +1,17 @@
+## AI for Trading
+1. Trading with Momentum
+2. Breakout Strategy
+3. Smart Beta Portfolio and Portfolio Optimization
+4. Multi-factor Model
+5. NLP on Financial Statements
+6. Analyzing Stock Sentiment from Twits
+7. 
+8. 
+
+
+## PyTorch Scholarship Challenge Nanodegree Program
+1. Developing an AI application
+
 ## AI Programming with Python Nanodegree Program
 1. [Image Classifier Project](https://goo.gl/QiRnqg)
 
