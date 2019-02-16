@@ -5,8 +5,6 @@
 4. Multi-factor Model
 5. NLP on Financial Statements
 6. Analyzing Stock Sentiment from Twits
-7. 
-8. 
 
 
 ## PyTorch Scholarship Challenge Nanodegree Program
