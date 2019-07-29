@@ -16,7 +16,7 @@
 
 
 ## Deep learning nanodegree foundation
-1. [Your first neural network](https://goo.gl/myRUYu)
+1. [Your first neural network](https://github.com/phuvanat/first-neural-network/blob/master/Your_first_neural_network.ipynb)
 2. [Image Classification](https://goo.gl/2xvpmJ)
 3. [TV Script Generation](https://goo.gl/kmNRPj)
 4. [Language Translation](https://goo.gl/T6bUb3)
