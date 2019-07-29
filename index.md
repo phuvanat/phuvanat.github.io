@@ -20,4 +20,4 @@
 2. [Image Classification](https://github.com/phuvanat/image-classification/blob/master/dlnd_image_classification.ipynb)
 3. [TV Script Generation](https://goo.gl/kmNRPj)
 4. [Language Translation](https://github.com/phuvanat/language-translation/blob/master/dlnd_language_translation.ipynb)
-5. [Face Generation](https://goo.gl/gKNMhz)
+5. [Face Generation](https://github.com/phuvanat/face_generation/blob/master/dlnd_face_generation.ipynb)
